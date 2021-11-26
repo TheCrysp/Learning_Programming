@@ -1,5 +1,5 @@
 void main(List<String> args) {
-  int x = 55;
+  int x = -1;
   int? maybeValue;
   if (x > 0) {
     maybeValue = x;
