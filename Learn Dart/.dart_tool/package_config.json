@@ -1,0 +1,14 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "dartly_package",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    }
+  ],
+  "generated": "2021-11-29T07:07:46.518442Z",
+  "generator": "pub",
+  "generatorVersion": "2.15.0-285.0.dev"
+}
